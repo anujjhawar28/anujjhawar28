@@ -10,8 +10,8 @@ I’m Anuj, a Senior Frontend developer having 3+ years of experience in Informa
 
 ## SKILLS 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,tailwind,ts,javascript,nodejs,express,vite,webpack,html,css,bootstrap,electron,mysql,postgresql,sqlite,git,github,gitlab" />
+  <a href="#">
+    <img title="vue,nuxtjs,tailwind,ts,javascript,nodejs,express,vite,webpack,html,css,bootstrap,electron,mysql,postgresql,sqlite,git,github,gitlab" src="https://skillicons.dev/icons?i=vue,nuxtjs,tailwind,ts,javascript,nodejs,express,vite,webpack,html,css,bootstrap,electron,mysql,postgresql,sqlite,git,github,gitlab" />
   </a>
 </p>
 
