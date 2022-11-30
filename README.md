@@ -6,5 +6,19 @@ I’m Anuj, a Senior Frontend developer having 3+ years of experience in Informa
 - 💬 Ask me about anything related to Javascript/Typescript/Vuejs/Nodejs/Express/HTML/CSS/TailwindUI
 - ⚡ Fun fact: ... I :heart:	coding :sunglasses:	  
 
+-----
+
+## SKILLS 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,tailwind,ts,javascript,nodejs,express,vite,webpack,html,css,bootstrap,electron,mysql,postgresql,sqlite,git,github,gitlab" />
+  </a>
+</p>
+
+-----
+
 ![This is an image](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=anujjhawar28)
+
+-----
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujjhawar28&count_private=true&show_icons=true&hide=stars,contribs)
 
