@@ -16,9 +16,11 @@ I’m Anuj, a Senior Frontend developer having 3+ years of experience in Informa
 </p>
 
 -----
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujjhawar28&count_private=true&show_icons=true&hide=stars,contribs)
+
+
+-----
 
 ![This is an image](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=anujjhawar28)
 
------
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujjhawar28&count_private=true&show_icons=true&hide=stars,contribs)
 
